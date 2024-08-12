@@ -19,16 +19,15 @@ instagram_username: instagram.com/_richdevs/
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-
 # rss: rss
 
 kramdown:
   syntax_highlighter_opts:
     disable: true
     
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# plugins:
+  # - jekyll-feed
+  # - jekyll-sitemap
 
 titles_from_headings:
   strip_title: true
@@ -40,11 +39,3 @@ defaults:
       type: post
     values:
       tags: Other
-
-collections:
-  tutorials:
-    output: true
-    permalink: /tutorials/:path/
-  news:
-    output: true
-    permalink: /news/:path/
