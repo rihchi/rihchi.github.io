@@ -6,21 +6,19 @@ date: 2024-08-16
 
 <!-- ## Header -->
 
+## Why I’m Starting This Blog
+For a while now, I’ve been looking for ways to stay committed to my personal growth in tech. Like many of us, I sometimes struggle to keep my momentum going when it comes to personal projects. After a long day of coding at work, it’s easy to let my own ideas fall by the wayside. I realized I needed something to keep me engaged—a project that not only challenges me but also allows me to blend my interests.
+
+This blog is my way of documenting that journey. Sharing my progress publicly helps keep me motivated. It adds a level of accountability and gives me a reason to push through those moments when I might otherwise put things off. I hope this blog will be a place where I can not only share what I’m working on but also connect with others who might be on a similar path, whether you’re interested in tech, bait making, or just looking for some inspiration to keep going with your own projects.
+
+Give my baitmaking/fishing instagram <a href="https://www.instagram.com/richjigs/">RichJigs</a> a look if you're curious!
+
+## Building the Minnow Color Generator
 ![Screenshot 2024-08-16 at 12 14 09 AM](https://github.com/user-attachments/assets/25cf3f5b-03e8-4b5e-9c84-4b6ab5787667)
 
 <a href="https://jolly-cherry-f189.richieabenoja25.workers.dev">Link to minnow color combo generator</a>
 
 <b>Refresh the page to generate new images.</b>
-
-## Building the Minnow Color Generator
-I’ve always enjoyed tech, but like many of us, I sometimes struggle to keep my momentum going when it comes to personal projects. After a long day of coding at work, it’s easy to let my own ideas fall by the wayside. I realized I needed something to keep me engaged—a project that not only challenges me but also allows me to blend my interests. That’s how the minnow color generator came to be.
-
-## Why I’m Starting This Blog
-Before diving into the technical details, I want to share why I’ve decided to start this blog. For a while now, I’ve been looking for ways to stay committed to my personal growth in tech. I’ve found that sharing my progress publicly helps keep me motivated. It adds a level of accountability and gives me a reason to push through those moments when I might otherwise put things off.
-
-This blog is my way of documenting that journey. I hope it will be a place where I can not only share what I’m working on but also connect with others who might be on a similar path, whether you’re interested in tech, bait making, or just looking for some inspiration to keep going with your own projects.
-
-Give my baitmaking/fishing instagram <a href="https://www.instagram.com/richjigs/">RichJigs</a> a look if you're curious!
 
 
 ## The Minnow Color Generator Inspiration
